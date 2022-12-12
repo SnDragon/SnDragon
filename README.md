@@ -31,13 +31,13 @@
 -->
 ### 技术栈
 
-![Go](https://img.shields.io/badge/-go-192133?style=flat-square&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=green)
-![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=green)
-![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=green)
-![Pulsar](https://img.shields.io/badge/-Pulsar-192133?style=flat-square&logo=apache-pulsar&logoColor=green)
-![macOS](https://img.shields.io/badge/-MacOS-192133?style=flat-square&logo=macos&logoColor=green)
-![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=green)
-![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=green)
-![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=green)
+![Go](https://img.shields.io/badge/-go-192133?style=flat-square&logo=go&logoColor=brightgreen)
+![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=brightgreen)
+![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=brightgreen)
+![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=brightgreen)
+![Pulsar](https://img.shields.io/badge/-Pulsar-192133?style=flat-square&logo=apache-pulsar&logoColor=brightgreen)
+![macOS](https://img.shields.io/badge/-MacOS-192133?style=flat-square&logo=macos&logoColor=brightgreen)
+![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=brightgreen)
+![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=brightgreen)
+![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=brightgreen)
 
