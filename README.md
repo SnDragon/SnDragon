@@ -24,14 +24,14 @@
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>  -->
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code> -->
 
-
+<!--
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=sndragon&theme=dracula" />
 </div>
-
+-->
 ### 技术栈
 
-![Go](https://img.shields.io/badge/-go-192133?style=flat-square&logo=go&logoColor=green)
+![Go](https://img.shields.io/badge/-go-192133?style=flat-square&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=green)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=green)
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=green)
